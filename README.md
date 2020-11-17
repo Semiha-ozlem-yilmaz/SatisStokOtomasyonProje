@@ -1,0 +1,2 @@
+# SatisStokOtomasyonProje
+Bitirme Projesi
